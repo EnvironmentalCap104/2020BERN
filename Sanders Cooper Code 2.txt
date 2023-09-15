@@ -184,7 +184,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1211,
         "fields": {
             "priority": 10,
-            "description": "Some of your supporters aren't too happy about the choice of Roy Cooper as Vice President. Some wanted a woman or minority, while others wanted someone more progressive. What will you say to reassure Klobuchar is the right choice?",
+            "description": "Some of your supporters aren't too happy about the choice of Roy Cooper as Vice President. Some wanted a woman or minority, while others wanted someone more progressive. What will you say to reassure Cooper is the right choice?",
             "likelihood": 1
         }
     },
@@ -9215,7 +9215,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 6092,
             "candidate": 300,
-            "answer_feedback": "Pundits note your emphasis on her experience, and her being in the Senate for 14 years can help a lot. Also, her geographical advantage and economic platform can really help win back the Midwest."
+            "answer_feedback": "Pundits note your emphasis on his experience. He has served in statewide office in North Carolina for almost 20 years, and his geographical advantage can really help in the Southeast."
         }
     },
     {
